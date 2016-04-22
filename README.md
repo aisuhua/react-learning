@@ -50,6 +50,7 @@
  4. [玩物圈前端技术栈总结（React+Redux）][29]
  5. [掘金 Tag: React.js][30]
  6. [开发者头条Tag: React ] [31]
+ 7. [图解 redux 和 react 的关系][32]
 
 
   [1]: http://www.ruanyifeng.com/blog/2015/03/react.html
@@ -83,3 +84,4 @@
   [29]: https://segmentfault.com/a/1190000004660725
   [30]: http://gold.xitu.io/#/tag/React.js
   [31]: http://toutiao.io/tags/react
+  [32]: https://yq.aliyun.com/articles/30348?spm=5176.100238.yqhn2.17.6772V
