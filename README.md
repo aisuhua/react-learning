@@ -42,16 +42,32 @@
 
  1. [Android官方培训课程中文版(v0.9.5)][25]
 
+## 项目
+
+ 1. [reading][26] 
+ 2. [f8app][27] 
+ 3. [ZhiHuDaily-React-Native][28]
+
 ## 其他
 
- 1. [百度母婴技术团队—基于Reactjs实现webapp][26]
- 2. [react-component][27]
- 3. [轻松入门 React 和 Webpack][28]
- 4. [玩物圈前端技术栈总结（React+Redux）][29]
- 5. [掘金 Tag: React.js][30]
- 6. [开发者头条Tag: React ] [31]
- 7. [图解 redux 和 react 的关系][32]
- 8. [从 React Router 谈谈路由的那些事][33]
+ 1. [通往全栈工程师的捷径 —— React][29] 
+ 2. [React Native 中组件的生命周期][30]
+ 2. [百度母婴技术团队—基于Reactjs实现webapp][31]
+ 2. [react-component][32]
+ 3. [轻松入门 React 和 Webpack][33]
+ 4. [玩物圈前端技术栈总结（React+Redux）][34]
+ 5. [掘金 Tag: React.js][35]
+ 6. [开发者头条Tag: React ] [36]
+ 7. [图解 redux 和 react 的关系][37]
+ 8. [从 React Router 谈谈路由的那些事][38]
+ 9. [构建 F8 App / React Native 开发指南][39]
+ 10. [Reading App Write In React-Native][40] - 蜂鸟众包系列
+ 11. [React Native for Android 实践 -- 实现知乎日报客户端][41]
+
+## 资源
+
+ 1. [react-native-android-guide][42]
+ 2. [React-Native学习指南][43]
 
 
   [1]: http://www.ruanyifeng.com/blog/2015/03/react.html
@@ -79,11 +95,21 @@
   [23]: http://cn.redux.js.org/
   [24]: https://github.com/react-guide/redux-tutorial-cn
   [25]: http://hukai.me/android-training-course-in-chinese/index.html
-  [26]: https://github.com/my-fe/wiki/issues/1
-  [27]: https://github.com/react-component
-  [28]: https://github.com/tmallfe/tmallfe.github.io/issues/23
-  [29]: https://segmentfault.com/a/1190000004660725
-  [30]: http://gold.xitu.io/#/tag/React.js
-  [31]: http://toutiao.io/tags/react
-  [32]: https://yq.aliyun.com/articles/30348?spm=5176.100238.yqhn2.17.6772V
-  [33]: http://stylechen.com/react-router.html
+  [26]: https://github.com/attentiveness/reading
+  [27]: https://github.com/fbsamples/f8app
+  [28]: https://github.com/race604/ZhiHuDaily-React-Native
+  [29]: http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=401107957&idx=1&sn=200418877771f656c1a0ab33ad407516&scene=1&srcid=1119XfFA8t5QQprIjzp76fcr&key=ff7411024a07f3ebf6601418be94ccd6219ed18e580029547278b6eadd5def524defc8dbfdfcf673a7daa87723cfa4bb&ascene=0&uin=NTYzMDc5MTc1&devicetype=iMac%20MacBookPro11,1%20OSX%20OSX%2010.11.1%20build%2815B42%29&version=11020201&pass_ticket=a82zcv0P%2b6ztN4xgcdnD/WtFbQjxhMOiiUJGZVbk6FUhTeozLqrMlGuES/vVmaI0
+  [30]: http://www.race604.com/react-native-component-lifecycle/
+  [31]: https://github.com/my-fe/wiki/issues/1
+  [32]: https://github.com/react-component
+  [33]: https://github.com/tmallfe/tmallfe.github.io/issues/23
+  [34]: https://segmentfault.com/a/1190000004660725
+  [35]: http://gold.xitu.io/#/tag/React.js
+  [36]: http://toutiao.io/tags/react
+  [37]: https://yq.aliyun.com/articles/30348?spm=5176.100238.yqhn2.17.6772V
+  [38]: http://stylechen.com/react-router.html
+  [39]: http://f8-app.liaohuqiu.net/
+  [40]: http://richardcao.me/2016/02/06/Reading-App-Write-In-React-Native/
+  [41]: http://www.race604.com/react-native-android-practice/
+  [42]: https://github.com/xujinyang/react-native-android-guide
+  [43]: https://github.com/ele828/react-native-guide
