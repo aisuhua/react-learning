@@ -63,11 +63,12 @@
  9. [构建 F8 App / React Native 开发指南][39]
  10. [Reading App Write In React-Native][40] - 蜂鸟众包系列
  11. [React Native for Android 实践 -- 实现知乎日报客户端][41]
+ 12. [在Windows下搭建React Native Android开发环境][42]
 
 ## 资源
 
- 1. [react-native-android-guide][42]
- 2. [React-Native学习指南][43]
+ 1. [react-native-android-guide][43]
+ 2. [React-Native学习指南][44]
 
 
   [1]: http://www.ruanyifeng.com/blog/2015/03/react.html
@@ -111,5 +112,6 @@
   [39]: http://f8-app.liaohuqiu.net/
   [40]: http://richardcao.me/2016/02/06/Reading-App-Write-In-React-Native/
   [41]: http://www.race604.com/react-native-android-practice/
-  [42]: https://github.com/xujinyang/react-native-android-guide
-  [43]: https://github.com/ele828/react-native-guide
+  [42]: http://bbs.reactnative.cn/topic/10/%E5%9C%A8windows%E4%B8%8B%E6%90%AD%E5%BB%BAreact-native-android%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83
+  [43]: https://github.com/xujinyang/react-native-android-guide
+  [44]: https://github.com/ele828/react-native-guide
